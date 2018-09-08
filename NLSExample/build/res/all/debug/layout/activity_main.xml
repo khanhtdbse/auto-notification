@@ -58,4 +58,4 @@
             android:layout_alignLeft="@+id/btnClearNotify"
             android:layout_alignRight="@+id/btnClearNotify"/>
 </RelativeLayout>
-<!-- From: file:/Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/src/main/res/layout/activity_main.xml -->
+<!-- From: file:/home/khanh/Code/NotificationListenerService-Example/NLSExample/src/main/res/layout/activity_main.xml -->

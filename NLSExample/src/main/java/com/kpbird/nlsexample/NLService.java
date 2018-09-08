@@ -7,6 +7,7 @@ import android.content.IntentFilter;
 import android.service.notification.NotificationListenerService;
 import android.service.notification.StatusBarNotification;
 import android.util.Log;
+import java.util.concurrent.TimeUnit;
 
 public class NLService extends NotificationListenerService {
 
@@ -34,6 +35,17 @@ public class NLService extends NotificationListenerService {
         Log.i(TAG,"ID :" + sbn.getId() + "\t" + sbn.getNotification().tickerText + "\t" + sbn.getPackageName());
         Intent i = new  Intent("com.kpbird.nlsexample.NOTIFICATION_LISTENER_EXAMPLE");
         i.putExtra("notification_event","onNotificationPosted :" + sbn.getPackageName() + "\n");
+        i.putExtra("notification_event", "ID :" + sbn.getId() + "\t" + sbn.getNotification().tickerText + "\t" + sbn.getPackageName());
+
+        
+        try{
+            TimeUnit.SECONDS.sleep(1);
+            sbn.getNotification().contentIntent.send();
+            i.putExtra("notification_event","click it!");
+        } catch (Exception e) {
+            i.putExtra("notification_event","not click it!");
+        }
+
         sendBroadcast(i);
 
     }

@@ -1,13 +1,13 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1375164276000 1153 19fb414767ef3e95f490d2191ef703cfdc9145b4 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/values/values.xml
-1375164277000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
-1375164277000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1375418029000 2568 03da4271ddff0aaa1012b74b2382d8492bd6a384 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/layout/activity_main.xml
-1375164276000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1375164276000 329 5d0ebbcf9813eb7d63aeaffac4d5a5b48bb6544c /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/values-v11/values.xml
-1375164276000 343 b635426a421d3204519f0ab9e08760f3b72c104e /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/values-v14/values.xml
-1375164276000 357 2ec6987315e067c1c6c789592d82b151702c4bdc /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/menu/main.xml
-1375164276000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1375164276000 260 317d97737cd278f39d8ae42e85ff56dfe38c762a /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/res/all/debug/values-sw720dp-land/values.xml
+1536426303000 257 af422ab1c4bf59a59e04c52822649ee9eef608d2 /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/values-sw720dp-land/values.xml
+1536424234000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1536426303000 2565 e3b13d2d8a09b11fd104237ae3eaf98c2be0c4be /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/layout/activity_main.xml
+1536426303000 340 cdfa0cfdb6e93da4d34ad5117cf6cdbb28e59d88 /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/values-v14/values.xml
+1536426303000 1144 214196b224115653dcca005f769e78768b398223 /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/values/values.xml
+1536426303000 326 a2886b6855c8c8ded583fa275ac24bc8a68ac869 /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/values-v11/values.xml
+1536424234000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1536424234000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1536426303000 354 285e4b520d76e946d14344e33a479b624419ad44 /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/menu/main.xml
+1536424234000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /home/khanh/Code/NotificationListenerService-Example/NLSExample/build/res/all/debug/drawable-mdpi/ic_launcher.png

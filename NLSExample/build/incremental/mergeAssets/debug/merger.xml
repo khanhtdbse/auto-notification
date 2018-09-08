@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/src/main/assets" />
+        <source path="/home/khanh/Code/NotificationListenerService-Example/NLSExample/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/src/debug/assets" />
+        <source path="/home/khanh/Code/NotificationListenerService-Example/NLSExample/src/debug/assets" />
     </dataSet>
 
 </merger>
